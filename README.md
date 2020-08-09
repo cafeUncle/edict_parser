@@ -1,1 +1,4 @@
-# edict_parser
+# edict_parser [![Build Status](https://travis-ci.org/Frederick-S/edict_parser.svg?branch=master)](https://travis-ci.org/Frederick-S/edict_parser) [![Build status](https://ci.appveyor.com/api/projects/status/4w11gxp226u1lrn8/branch/master?svg=true)](https://ci.appveyor.com/project/Frederick-S/edict-parser/branch/master) [![codecov](https://codecov.io/gh/Frederick-S/edict_parser/branch/master/graph/badge.svg)](https://codecov.io/gh/Frederick-S/edict_parser) [![Go Report Card](https://goreportcard.com/badge/github.com/Frederick-S/edict_parser)](https://goreportcard.com/report/github.com/Frederick-S/edict_parser) [![Maintainability](https://api.codeclimate.com/v1/badges/58d13b60f22945cb0c1d/maintainability)](https://codeclimate.com/github/Frederick-S/edict_parser/maintainability)
+
+## License
+[MIT](LICENSE)
